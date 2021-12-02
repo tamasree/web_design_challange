@@ -38,34 +38,27 @@ At the top of every page, there is a navigation menu that:
 * Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
 * Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
 * Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
-* Is responsive (using media queries). The nav must have similar behavior as the screenshots ["Navigation Menu" section](#navigation-menu) (notice the background color change).
+* Is responsive (using media queries). 
 
 ### Screenshots
 This section contains screenshots of each page that was built, at varying screen widths. 
 
 #### <a id="landing-page"></a>Landing page
-Large screen:
 ![Landing page large screen](Images/landingResize.png)
 
 #### <a id="comparisons-page"></a>Comparisons page
-Large screen:
 ![comparison page large screen](Images/comparison-lg.png)
 
-
 #### <a id="data-page"></a>Data page
-Large screen:
 ![data page large screen](Images/data-lg.png)
 
 #### <a id="visualization-pages"></a>Visualization pages
-Large screen:
 ![visualize page large screen](Images/visualize-lg.png)
-
-
 
 [Githubpage link](https://tamasree.github.io/web_design_challange/)
 
 #### Contact Info
-[Linkedin Link](https://www.linkedin.com/in/tamasree-sinha/)
-email id : tamasree.g@gmail.com
+* [Linkedin Link](https://www.linkedin.com/in/tamasree-sinha/)
+* email id : tamasree.g@gmail.com
 
 
